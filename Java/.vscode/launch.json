@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Java_dfd7b15c",
+      "vmArgs": "-Djava.library.path=\"C:\\opencv\\build\\java\\x64\""
+    }
+  ]
+}
